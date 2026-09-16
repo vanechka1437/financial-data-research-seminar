@@ -1,0 +1,7 @@
+pandas>=2.3.3,<3
+numpy>=2,<3
+pyarrow>=19
+xlrd>=2.0.2
+openpyxl>=3.1.5
+matplotlib>=3.11.1,<4
+ipykernel>=6
